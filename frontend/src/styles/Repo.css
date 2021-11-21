@@ -1,0 +1,56 @@
+.visibility {
+  text-transform: capitalize;
+}
+
+.type-icon {
+  margin: 0.5rem;
+}
+
+.dropdown-menu {
+  min-width: 12rem !important;
+  border: none !important;
+  box-shadow: 0 0 0.5em rgba(182, 181, 181, 0.762);
+}
+
+.action-btn {
+  background: #fff;
+  border: none;
+}
+
+.action-menu ul li {
+  height: 2.3rem;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 300;
+  margin: 0.2rem 0.5rem;
+  padding: 0.1rem 0;
+  cursor: pointer;
+}
+
+.action-menu ul li:hover {
+  border-radius: 0.25rem;
+  background: rgba(186, 245, 236, 0.221);
+}
+
+.action-menu ul .manage-icon,
+.suspend-icon,
+.delete-icon {
+  font-size: 1.7rem;
+  padding: 0 5px;
+}
+
+.action-menu ul .manage-icon,
+.delete-icon {
+  font-size: 1.9rem;
+  padding: 0 5px;
+}
+
+.action-menu .suspend-icon {
+  font-size: 1.8rem;
+  padding: 0 5px 0 6px;
+}
+
+.action-menu .delete-btn {
+  color: rgba(232, 64, 61, 0.68);
+}

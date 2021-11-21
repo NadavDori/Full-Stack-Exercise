@@ -1,0 +1,22 @@
+.thead-container {
+  margin: 0 3rem;
+  border-spacing: 20rem;
+}
+
+.thead-container table {
+  margin-bottom: 0.3rem !important;
+}
+
+.github-logo {
+  float: left;
+}
+
+.btn-refresh {
+  float: right;
+}
+
+.refresh-icon {
+  font-size: 1.2rem;
+  margin-right: 7px;
+  transform: scaleX(-1) rotate(90deg);
+}

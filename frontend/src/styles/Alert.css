@@ -1,0 +1,15 @@
+.alert-msg {
+  color: rgba(0, 0, 0, 0.4);
+  font-weight: 600;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -7rem;
+  height: 3rem;
+  width: 14rem;
+  display: flex;
+  font-size: 0.8rem;
+  border-radius: 0.25rem;
+  background-color: #8ef2d6;
+  box-shadow: 0 4px 0.4em rgb(198, 197, 197);
+}

@@ -1,0 +1,41 @@
+.repo-container {
+  width: 100vw;
+  max-width: 100%; /* added */
+}
+
+.upperline {
+  border-top: 2px solid #8eb8d8;
+}
+
+.tbody-container {
+  margin: 0 4rem;
+}
+
+.table-body {
+  font-weight: 200;
+}
+
+thead tr {
+  font-size: 2rem;
+  text-align: center;
+}
+
+thead tr td {
+  padding: 10px !important;
+}
+
+thead h3 {
+  font-weight: 200;
+}
+
+th {
+  color: #000;
+  font-weight: 500;
+  padding-top: 1.5rem !important;
+}
+
+td {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  vertical-align: middle;
+}
